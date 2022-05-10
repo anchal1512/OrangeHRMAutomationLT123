@@ -5,7 +5,7 @@ Library  OperatingSystem
 
 *** Variables ***
 
-${BROWSER}  edge
+${BROWSER}  chrome
 ${URL}    https://opensource-demo.orangehrmlive.com/
 
 *** Keywords ***
